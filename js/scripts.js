@@ -32,7 +32,7 @@ function checkAndDisplay(animalInput) {
     hideAnimals();
     $("#snake").show();
   } else {
-    console.log(animalInput);
+    alert("Congrats, you made it around our validation");
   }
 }
 

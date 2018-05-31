@@ -1,3 +1,7 @@
 .animal {
   display:none;
 }
+
+.animal img {
+  width: 80%;
+}
